@@ -1,0 +1,8 @@
+1 - Delete main
+2 - add dependencies in pom.xml and reload
+3 - create Utils package and inside create ConfigReader class and Constants class
+
+5 - create resources directory and inside create config.properties file
+6 - create feature file in resources
+7 - create Runner Class
+8 - create pages
